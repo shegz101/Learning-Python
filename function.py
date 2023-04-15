@@ -43,3 +43,6 @@ output - [0, 1, 4, 9, 16]
 y = [i**2 for i in x] 
 print(y)
 output - [0, 1, 4, 9, 16]
+
+x = [j + 2 for i in q]
+print(x)
